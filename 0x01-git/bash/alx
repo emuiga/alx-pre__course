@@ -1,1 +1,2 @@
-ALX School is so cool!
+sed -i 's/echo "ALX"/echo "ALX School"/g'alx.txt
+
